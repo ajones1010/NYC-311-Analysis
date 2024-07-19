@@ -1,11 +1,6 @@
-# D_Store
-.DS_Store
-
-# Adding config.py file.
+#configuration files
 config.py
 opendata_config.py
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
