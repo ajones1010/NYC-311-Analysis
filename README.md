@@ -1,15 +1,23 @@
 # NYC-311-Analysis
 Project 3 Group 3
-Setup
-  - Configure the following files with the given names to provide credentials:
-	- config.py:
-		api_key = '<SOME_VALUE>'
-		fromdate = '1/1/2020'
-		todate = '2/1/2020'
-	- opendata_config.py
-		par311 = '<TOKEN VALUE>'
-		username = '<SOME VALUE>'
-		password = '<SOME VALUE>'
+
+Setup:
+
+Configure the following files with the given names to provide credentials:
+
+- config.py:
+```
+api_key = '<SOME_VALUE>'
+fromdate = '1/1/2020'
+todate = '2/1/2020'
+```
+- opendata_config.py
+```
+par311 = '<TOKEN VALUE>'
+username = '<SOME VALUE>'
+password = '<SOME VALUE>'
+```
+
 Team Members: 
   - Yesmelin Pereomo
   - Amanda Lor
