@@ -13,7 +13,7 @@ todate = '2/1/2020'
 ```
 - opendata_config.py
 ```
-par311 = '<TOKEN VALUE>'
+token311 = '<TOKEN VALUE>'
 username = '<SOME VALUE>'
 password = '<SOME VALUE>'
 ```
