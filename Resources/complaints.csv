@@ -1,0 +1,184 @@
+complaint_id,complaint_type
+cmpT1,Food Poisoning
+cmpT2,Street Sign - Damaged
+cmpT3,HEAT/HOT WATER
+cmpT4,Street Condition
+cmpT5,Noise - Residential
+cmpT6,Noise - Commercial
+cmpT7,Illegal Parking
+cmpT8,Noise - Street/Sidewalk
+cmpT9,Blocked Driveway
+cmpT10,Noise - Vehicle
+cmpT11,Consumer Complaint
+cmpT12,Maintenance or Facility
+cmpT13,Noise - Park
+cmpT14,Noise
+cmpT15,Abandoned Vehicle
+cmpT16,Derelict Vehicles
+cmpT17,Graffiti
+cmpT18,Street Light Condition
+cmpT19,Taxi Complaint
+cmpT20,Noise - Helicopter
+cmpT21,WATER LEAK
+cmpT22,General Construction/Plumbing
+cmpT23,Illegal Dumping
+cmpT24,New Tree Request
+cmpT25,PLUMBING
+cmpT26,Homeless Person Assistance
+cmpT27,Non-Emergency Police Matter
+cmpT28,Mobile Food Vendor
+cmpT29,Obstruction
+cmpT30,UNSANITARY CONDITION
+cmpT31,For Hire Vehicle Complaint
+cmpT32,Traffic Signal Condition
+cmpT33,Lead
+cmpT34,Dirty Condition
+cmpT35,GENERAL
+cmpT36,Encampment
+cmpT37,Building/Use
+cmpT38,Sewer
+cmpT39,Water System
+cmpT40,Special Projects Inspection Team (SPIT)
+cmpT41,Traffic
+cmpT42,PAINT/PLASTER
+cmpT43,Elevator
+cmpT44,Food Establishment
+cmpT45,Panhandling
+cmpT46,Sidewalk Condition
+cmpT47,Green Taxi Complaint
+cmpT48,Curb Condition
+cmpT49,Drinking
+cmpT50,Commercial Disposal Complaint
+cmpT51,Dead Animal
+cmpT52,ELECTRIC
+cmpT53,Illegal Tree Damage
+cmpT54,Rodent
+cmpT55,Root/Sewer/Sidewalk Condition
+cmpT56,Damaged Tree
+cmpT57,Unsanitary Pigeon Condition
+cmpT58,Missed Collection
+cmpT59,Vendor Enforcement
+cmpT60,FLOORING/STAIRS
+cmpT61,DOOR/WINDOW
+cmpT62,Drug Activity
+cmpT63,Animal-Abuse
+cmpT64,Air Quality
+cmpT65,Street Sweeping Complaint
+cmpT66,Emergency Response Team (ERT)
+cmpT67,Indoor Air Quality
+cmpT68,Lost Property
+cmpT69,Animal in a Park
+cmpT70,Violation of Park Rules
+cmpT71,ELEVATOR
+cmpT72,Street Sign - Dangling
+cmpT73,Smoking
+cmpT74,Highway Condition
+cmpT75,SAFETY
+cmpT76,Residential Disposal Complaint
+cmpT77,Day Care
+cmpT78,Litter Basket Request
+cmpT79,Bike/Roller/Skate Chronic
+cmpT80,Overgrown Tree/Branches
+cmpT81,Dead/Dying Tree
+cmpT82,Illegal Fireworks
+cmpT83,Outdoor Dining
+cmpT84,Litter Basket Complaint
+cmpT85,APPLIANCE
+cmpT86,Plumbing
+cmpT87,Broken Parking Meter
+cmpT88,Street Sign - Missing
+cmpT89,Drinking Water
+cmpT90,Abandoned Bike
+cmpT91,Water Conservation
+cmpT92,Asbestos
+cmpT93,Water Quality
+cmpT94,Window Guard
+cmpT95,Construction Lead Dust
+cmpT96,Illegal Posting
+cmpT97,For Hire Vehicle Report
+cmpT98,Dumpster Complaint
+cmpT99,Real Time Enforcement
+cmpT100,Lot Condition
+cmpT101,Bus Stop Shelter Complaint
+cmpT102,Bridge Condition
+cmpT103,Ferry Inquiry
+cmpT104,Noise - House of Worship
+cmpT105,Illegal Animal Kept as Pet
+cmpT106,Public Toilet
+cmpT107,Boilers
+cmpT108,Plant
+cmpT109,Illegal Animal Sold
+cmpT110,Disorderly Youth
+cmpT111,Urinating in Public
+cmpT112,Unleashed Dog
+cmpT113,Unsanitary Animal Pvt Property
+cmpT114,OUTSIDE BUILDING
+cmpT115,Sanitation Worker or Vehicle Complaint
+cmpT116,Electrical
+cmpT117,LinkNYC
+cmpT118,School Maintenance
+cmpT119,BEST/Site Safety
+cmpT120,Uprooted Stump
+cmpT121,Hazardous Materials
+cmpT122,Posting Advertisement
+cmpT123,Non-Residential Heat
+cmpT124,Municipal Parking Facility
+cmpT125,Taxi Report
+cmpT126,Investigations and Discipline (IAD)
+cmpT127,Incorrect Data
+cmpT128,Wood Pile Remaining
+cmpT129,AHV Inspection Unit
+cmpT130,Building Drinking Water Tank
+cmpT131,Industrial Waste
+cmpT132,Indoor Sewage
+cmpT133,Unsanitary Animal Facility
+cmpT134,Ferry Complaint
+cmpT135,Highway Sign - Damaged
+cmpT136,Pet Shop
+cmpT137,Scaffold Safety
+cmpT138,Squeegee
+cmpT139,Bike Rack Condition
+cmpT140,Taxi Licensee Complaint
+cmpT141,Executive Inspections
+cmpT142,Bus Stop Shelter Placement
+cmpT143,Beach/Pool/Sauna Complaint
+cmpT144,Green Taxi Report
+cmpT145,Cranes and Derricks
+cmpT146,Highway Sign - Dangling
+cmpT147,E-Scooter
+cmpT148,X-Ray Machine/Equipment
+cmpT149,Calorie Labeling
+cmpT150,Taxi Compliment
+cmpT151,DEP Street Condition
+cmpT152,Mold
+cmpT153,Tattooing
+cmpT154,Special Natural Area District (SNAD)
+cmpT155,Dispatched Taxi Complaint
+cmpT156,Retailer Complaint
+cmpT157,Harboring Bees/Wasps
+cmpT158,Borough Office
+cmpT159,Snow or Ice
+cmpT160,Found Property
+cmpT161,Construction Safety Enforcement
+cmpT162,Animal Facility - No Permit
+cmpT163,FHV Licensee Complaint
+cmpT164,Institution Disposal Complaint
+cmpT165,Highway Sign - Missing
+cmpT166,Dept of Investigations
+cmpT167,Building Marshal's Office
+cmpT168,DEP Sidewalk Condition
+cmpT169,Recycling Basket Complaint
+cmpT170,Tanning
+cmpT171,Poison Ivy
+cmpT172,Adopt-A-Basket
+cmpT173,Oil or Gas Spill
+cmpT174,Special Operations
+cmpT175,Building Condition
+cmpT176,Building Marshals office
+cmpT177,Lifeguard
+cmpT178,Tunnel Condition
+cmpT179,DEP Highway Condition
+cmpT180,Seasonal Collection
+cmpT181,DSNY Internal
+cmpT182,SNW
+cmpT183,Radioactive Material
