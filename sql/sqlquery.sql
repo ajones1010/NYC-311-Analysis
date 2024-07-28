@@ -1,9 +1,28 @@
 -- drop tables are list in this logical order to make sure the query runs more than once if for whatever reason we'd like to drop tables.
 DROP TABLE IF EXISTS nyc311_service_line;
+DROP TABLE IF EXISTS boroughs_tb;
+DROP TABLE IF EXISTS complaints_tb;
+DROP TABLE IF EXISTS agencies_tb;
+
 
 
 -- data engineering part of the challenge
 -- creating tables 
+
+CREATE TABLE complaints_tb (
+	complaint_id varchar(10) PRIMARY KEY NOT NULL,
+	complaint_type varchar(200) NOT NULL
+);
+
+CREATE TABLE boroughs_tb (
+	borough_id varchar(10) PRIMARY KEY NOT NULL,
+	borough varchar(200) NOT NULL
+);
+
+CREATE TABLE agencies_tb (
+	agencies_id varchar(10) PRIMARY KEY NOT NULL,
+	agency varchar(20) NOT NULL
+);
 
 CREATE TABLE nyc311_service_line (
 	unique_key INTEGER PRIMARY KEY NOT NULL,
@@ -45,9 +64,28 @@ CREATE TABLE nyc311_service_line (
 	bridge_highway_segment VARCHAR(200),
 	bridge_highway_direction VARCHAR(200),
 	road_ramp VARCHAR(200),
-	taxi_company_borough VARCHAR(200)
+	taxi_company_borough VARCHAR(200),
+	complaint_id varchar(10) NOT NULL,
+	borough_id varchar(10) NOT NULL,
+	agencies_id varchar(10) NOT NULL,
+	FOREIGN KEY (complaint_id) REFERENCES complaints_tb (complaint_id),
+	FOREIGN KEY (borough_id) REFERENCES boroughs_tb  (borough_id),
+	FOREIGN KEY (agencies_id) REFERENCES agencies_tb (agencies_id)
 
 );
 
+
 SELECT *
-FROM nyc311_service_line
+FROM complaints_tb;
+
+
+SELECT *
+FROM boroughs_tb;
+
+
+SELECT *
+FROM agencies_tb;
+
+
+SELECT *
+FROM nyc311_service_line;
