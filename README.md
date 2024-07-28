@@ -71,12 +71,12 @@ A Jupyter Notebook file where we perform our ETL workflow and analysis.
 ### nyc_311_ppt
 A PowerPoint file containing our presentation.
 
-> [!Sources]
-> QuickDBD.
-> 311 Service Requests from 2010 to Present 
-> -[Link] (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
-> NYC 311 Public API Documentation
-> -[Link] (https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
+### Sources
+- QuickDBD.
+- 311 Service Requests from 2010 to Present
+  -[Link] (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
+- NYC 311 Public API Documentation
+  -[Link] (https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
   
 
 > [!Team Members & Responsabilities]
