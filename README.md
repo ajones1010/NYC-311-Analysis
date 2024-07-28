@@ -24,7 +24,7 @@ Note: When you run this code, another file called **nyc311_merged_df.csv** will 
 
 
 
-### Libraries Used
+#### Libraries Used
 - Plotly.js: For creating dynamic and interactive visualizations.
 - Numpy: For data manipulation during CSV creation.
 - Pandas: For performing our analysis.
@@ -32,7 +32,7 @@ Note: When you run this code, another file called **nyc311_merged_df.csv** will 
 - Json & Requests: For requesting data from NYC.gov and working with the API related to trash in NYC.
 - Sodapy: A new library used to fetch data from Socrata, a government server site that Open Data uses to publish data.
 
-### Private_info
+#### Private_info
 This directory contains examples of private information such as API keys, tokens, and passwords, which are included in the .gitignore file. Please set up the following files with the given names to provide credentials:
 
 - config.py:
@@ -57,29 +57,29 @@ password = '<SOME VALUE>'
 ```
 [Socrata API Documentation](https://dev.socrata.com/foundry/data.cityofnewyork.us/erm2-nwe9)
 
-### sql
+#### sql
 This directory contains:
 ERD.png: The Entity-Relationship Diagram created with the QuickDBD tool.
 sqlquery.sql: The schema used to import data into PostgreSQL.
 
-### NYC311 Project Proposal.docx
+#### NYC311 Project Proposal.docx
 A Microsoft Word file that contains the initial proposal for this project.
 
-### nyc_311.ipynb
+#### nyc_311.ipynb
 A Jupyter Notebook file where we perform our ETL workflow and analysis.
 
-### nyc_311_ppt
+#### nyc_311_ppt
 A PowerPoint file containing our presentation.
 
-### Sources
+#### Sources
 - QuickDBD.
 - 311 Service Requests from 2010 to Present
-  -[Link] (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
+- [Link] (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
 - NYC 311 Public API Documentation
-  -[Link] (https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
+- [Link] (https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
   
 
-> [!Team Members & Responsabilities]
+> [Team Members & Responsabilities]
 > - [x] Yesmelin Perdomo: ETL workflow, PPT presentation, nyc_311.ipynb analysis, setup with Sodapy, README file.
 > - [x] Amanda Lor: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, proposal, README file.
 > - [x] Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis, README file.
