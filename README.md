@@ -6,6 +6,7 @@ This repository contains the code for Project #3, where we analyzed data from th
 
 
 ### Directory Structure
+
 #### New York City 311 Written Analysis
 A Microsoft Word file containing answers to the project’s goals: 
 
@@ -15,6 +16,8 @@ A Microsoft Word file containing answers to the project’s goals:
 - Which borough received the highest volume of 311 calls, and what were the top calls in each borough?
 - Which agencies are the busiest and are they working effectively? How does this relate to the previous analysis? What is the trash situation in NYC?
 
+#### Data Ethics
+
 #### Resources
 This directory contains:
 
@@ -22,7 +25,7 @@ This directory contains:
 - A JSON file (nyc-311-public-api (1).json) providing an in-depth view of the APIs from NewYorkCity.gov.
 - An Excel file (311_ServiceRequest_2010-Present_DataDictionary_Updated_2023.xlsx) with metadata from the Open Data sources.
 > [!NOTE]
-> When you run this code, another file called nyc311_merged_df.csv will be generated. This file was also used in the load part of our workflow but was not included due to its large size (400 MB) and GitHub’s file size limit of 100 MB..
+> When you run this code, another file called nyc311_merged_df.csv will be generated. This file was also used in the load part of our ETL workflow but was not included due to its large size (400 MB) and GitHub’s file size limit of 100 MB..
 
 #### Libraries Used
 - Plotly.js: For creating dynamic and interactive visualizations.
