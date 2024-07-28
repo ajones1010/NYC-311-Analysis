@@ -17,10 +17,11 @@ A Microsoft Word file containing answers to the project’s goals:
 
 #### Resources
 This directory contains:
-CSV files (agencies.csv, boroughs.csv, complaints.csv) used to create our PostgreSQL database.
-A JSON file (nyc-311-public-api (1).json) providing an in-depth view of the APIs from NewYorkCity.gov.
-An Excel file (311_ServiceRequest_2010-Present_DataDictionary_Updated_2023.xlsx) with metadata from the Open Data sources.
-Note: When you run this code, another file called **nyc311_merged_df.csv** will be generated. This file was also used in the load part of our ETL workflow but was not included due to its large size (400 MB) and GitHub’s file size limit of 100 MB.
+
+- CSV files (agencies.csv, boroughs.csv, complaints.csv) used to create our PostgreSQL database.
+- A JSON file (nyc-311-public-api (1).json) providing an in-depth view of the APIs from NewYorkCity.gov.
+- An Excel file (311_ServiceRequest_2010-Present_DataDictionary_Updated_2023.xlsx) with metadata from the Open Data sources.
+- Note: When you run this code, another file called nyc311_merged_df.csv will be generated. This file was also used in the load part of our workflow but was not included due to its large size (400 MB) and GitHub’s file size limit of 100 MB.
 
 
 
@@ -76,7 +77,7 @@ A PowerPoint file containing our presentation.
 - 311 Service Requests from 2010 to Present
 [Link](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
 - NYC 311 Public API Documentation
-- [Link](https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
+[Link](https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
   
 
 > [Team Members & Responsabilities]
