@@ -44,8 +44,7 @@ api_key = '<SOME_VALUE>'
 fromdate = '1/1/2020'
 todate = '2/1/2020'
 ```
-NYC 311 API Documentation
-Link: https://api-portal.nyc.gov/product#product=NYC-311-Public-Developers
+[NYC 311 API Documentation](https://api-portal.nyc.gov/product#product=NYC-311-Public-Developers)
 
 - opendata_config.py
   
@@ -56,8 +55,7 @@ token311 = '<TOKEN VALUE>'
 username = '<SOME VALUE>'
 password = '<SOME VALUE>'
 ```
-Socrata API Documentation
-Link: https://dev.socrata.com/foundry/data.cityofnewyork.us/erm2-nwe9
+[Socrata API Documentation](https://dev.socrata.com/foundry/data.cityofnewyork.us/erm2-nwe9)
 
 ### sql
 This directory contains:
@@ -73,19 +71,21 @@ A Jupyter Notebook file where we perform our ETL workflow and analysis.
 ### nyc_311_ppt
 A PowerPoint file containing our presentation.
 
-### Sources
-QuickDBD
-311 Service Requests from 2010 to Present 
-  -Link : https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data
-NYC 311 Public API Documentation
-  -Link : https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get
+> [!Sources]
+> QuickDBD.
+> 311 Service Requests from 2010 to Present 
+  -[Link] (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
+> NYC 311 Public API Documentation
+  -[Link] (https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
   
 #### Team Members & Responsabilities 
-Yesmelin Perdomo: ETL workflow, PPT presentation, nyc_311.ipynb analysis, setup with Sodapy, README file.
-Amanda Lor: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, proposal, README file.
-Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis, README file.
-Asmae Bouazzaoui: Introduction.
-Daniel Gomes: 
+
+> [!Team Members & Responsabilities]
+> - [x] Yesmelin Perdomo: ETL workflow, PPT presentation, nyc_311.ipynb analysis, setup with Sodapy, README file.
+> - [x] Amanda Lor: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, proposal, README file.
+> - [x] Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis, README file.
+> - [ ] Asmae Bouazzaoui: Introduction.
+> - [ ] Daniel Gomes: 
 
 
 
