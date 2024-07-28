@@ -21,9 +21,8 @@ This directory contains:
 - CSV files (agencies.csv, boroughs.csv, complaints.csv) used to create our PostgreSQL database.
 - A JSON file (nyc-311-public-api (1).json) providing an in-depth view of the APIs from NewYorkCity.gov.
 - An Excel file (311_ServiceRequest_2010-Present_DataDictionary_Updated_2023.xlsx) with metadata from the Open Data sources.
-- Note: When you run this code, another file called nyc311_merged_df.csv will be generated. This file was also used in the load part of our workflow but was not included due to its large size (400 MB) and GitHub’s file size limit of 100 MB.
-
-
+> [!NOTE]
+> When you run this code, another file called nyc311_merged_df.csv will be generated. This file was also used in the load part of our workflow but was not included due to its large size (400 MB) and GitHub’s file size limit of 100 MB..
 
 #### Libraries Used
 - Plotly.js: For creating dynamic and interactive visualizations.
@@ -80,12 +79,12 @@ A PowerPoint file containing our presentation.
 [Link](https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
   
 
-> [Team Members & Responsabilities]
-> - [x] Yesmelin Perdomo: ETL workflow, PPT presentation, nyc_311.ipynb analysis, setup with Sodapy, README file.
-> - [x] Amanda Lor: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, proposal, README file.
-> - [x] Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis, README file.
-> - [x] Asmae Bouazzaoui: Introduction.
-> - [ ] Daniel Gomes: 
+#### [Team Members & Responsabilities
+- [x] Yesmelin Perdomo: ETL workflow, PPT presentation, nyc_311.ipynb analysis, setup with Sodapy, README file.
+- [x] Amanda Lor: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, proposal, README file.
+- [x] Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis, README file.
+- [x] Asmae Bouazzaoui: Introduction.
+- [ ] Daniel Gomes: 
 
 
 
