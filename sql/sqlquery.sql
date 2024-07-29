@@ -1,5 +1,5 @@
 -- drop tables are list in this logical order to make sure the query runs more than once if for whatever reason we'd like to drop tables.
-DROP TABLE IF EXISTS nyc311_service_line;
+DROP TABLE IF EXISTS nyc311_merged_tb;
 DROP TABLE IF EXISTS boroughs_tb;
 DROP TABLE IF EXISTS complaints_tb;
 DROP TABLE IF EXISTS agencies_tb;
@@ -24,7 +24,7 @@ CREATE TABLE agencies_tb (
 	agency varchar(20) NOT NULL
 );
 
-CREATE TABLE nyc311_service_line (
+CREATE TABLE nyc311_merged_tb (
 	unique_key INTEGER PRIMARY KEY NOT NULL,
 	created_date timestamp,
 	closed_date timestamp,
@@ -88,4 +88,4 @@ FROM agencies_tb;
 
 
 SELECT *
-FROM nyc311_service_line;
+FROM nyc311_merged_tb;
