@@ -7,7 +7,7 @@ This repository contains the code for Project #3, where we analyzed data from th
 
 ### Directory Structure
 
-#### New York City 311 Written Analysis
+#### NYC 311 Written Analysis.docx
 A Microsoft Word file containing answers to the project’s goals: 
 
 - How has the flow of incidents been during the first quarter (January-March) of this year?
