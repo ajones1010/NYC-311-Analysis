@@ -85,9 +85,10 @@ A PowerPoint file containing our presentation.
 #### Team Members & Responsabilities
 - [x] Yesmelin Perdomo: ETL workflow, PPT presentation, nyc_311.ipynb analysis, setup with Sodapy, README file.
 - [x] Amanda Lor: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, proposal, README file.
-- [x] Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis, README file.
-- [x] Asmae Bouazzaoui: Introduction.
+- [x] Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis (including introduction and conclusion), README file.
+- [x] Asmae Bouazzaoui: Introduction (slide)
 - [ ] Daniel Gomes: 
+
 
 
 
