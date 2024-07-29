@@ -71,7 +71,7 @@ A Microsoft Word file that contains the initial proposal for this project.
 #### nyc_311.ipynb
 A Jupyter Notebook file where we perform our ETL workflow and analysis.
 
-#### nyc_311_ppt
+#### nyc_311_pppt.pptx
 A PowerPoint file containing our presentation.
 
 #### Sources
