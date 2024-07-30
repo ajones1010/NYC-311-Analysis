@@ -87,7 +87,8 @@ A PowerPoint file containing our presentation.
 - [x] Amanda Lor: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, proposal, README file.
 - [x] Alyssa Jones: ETL workflow, nyc_311.ipynb analysis, setup with Sodapy, written analysis (including introduction and conclusion), README file.
 - [x] Asmae Bouazzaoui: Introduction (slide)
-- [ ] Daniel Gomes: 
+- [x] Daniel Gomes: Highest Resolution Rate Per Borough
+
 
 
 
