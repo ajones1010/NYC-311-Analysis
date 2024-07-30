@@ -89,6 +89,9 @@ A PowerPoint file containing our presentation.
 - [x] Asmae Bouazzaoui: Introduction (slide)
 - [x] Daniel Gomes: Highest Resolution Rate Per Borough
 
+#### Data Ethics
+The data we used was from New York City’s Open Data 311 which does not give out any names, gender, or information of the person that is calling. It gives out the relative location and the complaint type. This ensures that no private information or data is given to the general public, and keeps those that call the 311 line a sense of comfort. Since this data is able and meant to be used for public access, no ethics are involved, as all important and private data is not shown, and only general information relating to the call is released. This ensures proper collection of data and security.
+
 
 
 
