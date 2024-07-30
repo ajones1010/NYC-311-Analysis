@@ -83,8 +83,8 @@ A PowerPoint file containing our presentation.
 [Link](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
 - NYC 311 Public API Documentation
 [Link](https://api-portal.nyc.gov/api-details#api=nyc-311-public-api&operation=api-GetAssets-get)
-- New York Times article
-[Parking in NYC is really worse than ever](https://www.nytimes.com/2023/10/09/nyregion/nyc-parking-cars.html#:~:text=No%2C%20you're%20not%20imagining,city%20each%20day%20from%20elsewhere)
+- New York Times article 'Parking in NYC is really worse than ever'
+[Link](https://www.nytimes.com/2023/10/09/nyregion/nyc-parking-cars.html#:~:text=No%2C%20you're%20not%20imagining,city%20each%20day%20from%20elsewhere)
   
 
 #### Team Members & Responsabilities
