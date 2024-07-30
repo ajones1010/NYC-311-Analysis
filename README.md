@@ -24,6 +24,9 @@ This directory contains:
 - CSV files (agencies.csv, boroughs.csv, complaints.csv) used to create our PostgreSQL database.
 - A JSON file (nyc-311-public-api (1).json) providing an in-depth view of the APIs from NewYorkCity.gov.
 - An Excel file (311_ServiceRequest_2010-Present_DataDictionary_Updated_2023.xlsx) with metadata from the Open Data sources.
+- Xpert AI Assistance
+- ChatGPT Assistance (for Grammar Assistance)
+- Tutoring Session
 > [!NOTE]
 > When you run this code, another file called nyc311_merged_df.csv will be generated. This file was also used in the load part of our ETL workflow but was not included due to its large size (400 MB) and GitHub’s file size limit of 100 MB..
 
